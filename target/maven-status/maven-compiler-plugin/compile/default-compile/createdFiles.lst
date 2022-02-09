@@ -1,0 +1,7 @@
+com\javaspringclub\entity\Contact.class
+com\javaspringclub\config\HibernateConfig.class
+com\javaspringclub\repository\ContactRepository.class
+com\javaspringclub\controller\ContactController.class
+com\javaspringclub\service\ContactService.class
+com\javaspringclub\config\ServletInitializer.class
+com\javaspringclub\config\WebMvcConfig.class
